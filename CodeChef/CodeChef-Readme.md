@@ -19,3 +19,4 @@ can refer the link: [CodeChef Certification](https://www.codechef.com/certificat
 
 ## List of Questions:
 1. [NAICHEF](https://www.codechef.com/JUNE18B/problems/NAICHEF) | June Long Challenge 2018 Div 2
+2. [CHSERVE](https://www.codechef.com/OCT18B/problems/CHSERVE/) | October Long Challenge 2018 Div 2
